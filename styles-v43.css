@@ -1,0 +1,9 @@
+/* Parche V4.3 */
+.section,.finalcta{padding:60px 0!important;}
+@media(min-width:768px){.section,.finalcta{padding:80px 0!important;}}
+.floating{right:12px!important;bottom:12px!important;padding:12px 18px!important;font-size:.95rem!important;z-index:999!important;}
+.hero-inner{padding-bottom:50px!important;}
+.experience{min-height:520px!important;}
+.team-card{padding:18px!important;}
+#ubicacion img{margin-bottom:16px!important;}
+.finalcta h2{margin-bottom:20px!important;}
