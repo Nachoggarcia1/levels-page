@@ -1,0 +1,1 @@
+Reemplazar placeholders por fotos y videos reales.
